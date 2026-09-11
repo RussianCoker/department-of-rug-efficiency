@@ -1,0 +1,15 @@
+{
+  "network": "Arc Testnet",
+  "chainId": 5042002,
+  "token": {
+    "name": "Department of Rug Efficiency",
+    "symbol": "RUG",
+    "decimals": 18,
+    "supply": "1000000000"
+  },
+  "contractAddress": "0x8633081C556EE454D0bdd22c837a7e7CA42eba1D",
+  "deployer": "0x57E03F40b40cA8CCEbf24d210756B0308703b0C2",
+  "verifiedWith": "Sourcify",
+  "status": "testnet",
+  "market": "not launched"
+}
