@@ -1,5 +1,7 @@
 # Department of Rug Efficiency
 
+![Anti-Rug Checks](https://github.com/RussianCoker/department-of-rug-efficiency/actions/workflows/anti-rug.yml/badge.svg)
+
 > **The only rug that cannot rug.**
 
 Department of Rug Efficiency — D.O.R.E. — is an experimental Arc-native ERC-20 project built around transparent token mechanics and extremely inefficient rug pulling.
