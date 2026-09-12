@@ -58,8 +58,8 @@ The deployed source code has been verified through Sourcify.
 - ✅ Contract v1.0
 - ✅ Arc Testnet deployment
 - ✅ Source verification
-- 🟡 Automated test suite
-- 🟡 Website
+- ✅ Automated test suite
+- ✅ Website — https://rugdepartment.xyz
 - ⚪ Mainnet deployment
 - ⚪ Official liquidity pool
 
